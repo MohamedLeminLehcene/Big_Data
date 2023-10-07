@@ -48,11 +48,30 @@
 <h3>7- Conulter Hadoop 2.7.1 via Web avec address : localhost:50070</h3>
 <img src="./img/img016.png"/>
 <h2>TP 1 : Manipulation du système de fichiers HDFS</h2>
-<h3>1- Démarrez les processus Hadoop les commandes : start-dfs.sh et start-yarn.sh</h3>
+<h3> 1- Démarrez les processus Hadoop les commandes : start-dfs.sh et start-yarn.sh</h3>
 <img src="./img2/img01.png"/>
 <br><br>
 <img src="./img2/img02.png"/>
 <h3>- Ensuite, vérifiez qu'il est en cours d'exécution avec la commande : jps</h3>
 <img src="./img2/img03.png" />
-<h3>et accéder à l’interface web de NameNode avec http://localhost:50070</h3>
+<h3>- Et accéder à l’interface web de NameNode avec http://localhost:50070</h3>
 <img src="./img2/img04.png"/>
+
+<h3 2 - >Créez dans la racine du HDFS l’arborescence suivante :</h3>
+<img src="./img2/img05.png"/>
+<br><br>
+<img src="./img2/img06.png"/>
+<br><br>
+<h3>Voici on a créer l'arborescence</h3>
+<img src="./img2/img07.png"/>
+<br><br>
+<h3> 3 - Créez dans le répertoire Cours de CPP les fichiers CoursCPP1, CoursCPP2 et
+CoursCPP3. Puis ajoutez du contenu dans les fichiers crées.</h3>
+<img src="./img2/img08.png"/>
+<br><br>
+<img src="./img2/img09.png"/>
+<h3> 4 - </h3>
+<h3> 5 - Copiez les fichiers CoursCPP1, CoursCPP2 et CoursCPP3 dans le répertoire Cours
+de l’JAVA.</h3>
+<img src="./img2/img010.png">
+
