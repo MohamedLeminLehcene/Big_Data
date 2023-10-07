@@ -57,7 +57,7 @@
 <h3>- Et accéder à l’interface web de NameNode avec http://localhost:50070</h3>
 <img src="./img2/img04.png"/>
 
-<h3 2 - >Créez dans la racine du HDFS l’arborescence suivante :</h3>
+<h3> 2 -Créez dans la racine du HDFS l’arborescence suivante :</h3>
 <img src="./img2/img05.png"/>
 <br><br>
 <img src="./img2/img06.png"/>
@@ -84,7 +84,7 @@ de l’JAVA.</h3>
 <img src="./img2/img014.png"/>
 <h3>  8 - Copier les fichiers TP1CPP,TP2CPP à partir du système de fichier local vers le répertoire TPs de répertoire CPP.</h3>
 <img src="./img2/img015.png">
-<h3> 10 - opier les fichiers TP1CJAVA,TP2JAVA à partir du système de fichier local vers le répertoire TPs de répertoire JAVA.</h3>
+<h3> 9 - Copier les fichiers TP1CJAVA,TP2JAVA à partir du système de fichier local vers le répertoire TPs de répertoire JAVA.</h3>
 <img src="./img2/img016.png">
 <h3> 10 - Afficher tout le contenu du répertoire BDDC d’une manière récursive.</h3>
 <img src="./img2/img017.png">
