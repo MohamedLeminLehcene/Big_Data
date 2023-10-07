@@ -74,4 +74,21 @@ CoursCPP3. Puis ajoutez du contenu dans les fichiers crées.</h3>
 <h3> 5 - Copiez les fichiers CoursCPP1, CoursCPP2 et CoursCPP3 dans le répertoire Cours
 de l’JAVA.</h3>
 <img src="./img2/img010.png">
-
+<h3>6. Supprimer le fichier CoursCPP3 dans le répertoire Cours de l’JAVA</h3>
+<img src="./img2/img011.png">
+<h3>Et renommer CoursCPP1 et CoursCPP2 par CoursJAVA1 et CoursJAVA2 respectivement.</h3>
+<img src="./img2/img012.png">
+<h3>  7 -  Créer un répertoire dans le système de fichier local les fichiers : TP1CPP,TP2CPP,TP1JAVA,TP2JAVA,TP3JAVA.</h3>
+<img src="./img2/img013.png"/>
+<br><br>
+<img src="./img2/img014.png"/>
+<h3>  8 - Copier les fichiers TP1CPP,TP2CPP à partir du système de fichier local vers le répertoire TPs de répertoire CPP.</h3>
+<img src="./img2/img015.png">
+<h3> 10 - opier les fichiers TP1CJAVA,TP2JAVA à partir du système de fichier local vers le répertoire TPs de répertoire JAVA.</h3>
+<img src="./img2/img016.png">
+<h3> 10 - Afficher tout le contenu du répertoire BDDC d’une manière récursive.</h3>
+<img src="./img2/img017.png">
+<h3> 11 - Supprimer le fichier TP1CPP du répertoire TPs.</h3>
+<img src="./img2/img018.png">
+<h3> 12 - Supprimer le répertoire Java avec son contenu.</h3>
+<img src="./img2/img019.png">
