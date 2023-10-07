@@ -47,3 +47,12 @@
 <img src="./img/img015.png"/>
 <h3>7- Conulter Hadoop 2.7.1 via Web avec address : localhost:50070</h3>
 <img src="./img/img016.png"/>
+<h2>TP 1 : Manipulation du système de fichiers HDFS</h2>
+<h3>1- Démarrez les processus Hadoop les commandes : start-dfs.sh et start-yarn.sh</h3>
+<img src="./img2/img01.png"/>
+<br><br>
+<img src="./img2/img02.png"/>
+<h3>- Ensuite, vérifiez qu'il est en cours d'exécution avec la commande : jps</h3>
+<img src="./img2/img03.png" />
+<h3>et accéder à l’interface web de NameNode avec http://localhost:50070</h3>
+<img src="./img2/img04.png"/>
