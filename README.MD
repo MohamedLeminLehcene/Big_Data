@@ -45,5 +45,5 @@
 <img src="./img/img014.png"/>
 <h3>- Vérifier si les services ont été démarrés avec la commande jps :</h3>
 <img src="./img/img015.png"/>
-<h4>Conulter Hadoop 2.7.1 via Web avec address : localhost:50070</h4>
+<h3>7- Conulter Hadoop 2.7.1 via Web avec address : localhost:50070</h3>
 <img src="./img/img016.png"/>
