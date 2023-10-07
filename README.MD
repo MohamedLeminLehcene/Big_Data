@@ -13,3 +13,11 @@
 <br/><br/>
 <h4>Taper ensuite la commande java -version pour vérifier si java a été bien installée : java -version</h4>
 <img src="./img/img04.png"/>
+<h3>2. Installer Open SSH Client et Open SSH Server/h3>
+<h4>sudo apt-get install openssh-server openssh-client</h4>
+<h3>3. Générer des paires de clés privées et publiques : ssh-keygen -t rsa -P ""</h3>
+<img src="./img/img05.png"/>
+<br/><br/>
+<h3>4. Configurer SSH sans mot de passe : cat /home/lehcene/rsa_key.pub >> /home/lehcene/authorized_keys</h3>
+<img src="./img/img06.png"/>
+</br></br>
